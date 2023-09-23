@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PokemonGallery/static/css/main.d23f69d3.css",
+    "main.js": "/PokemonGallery/static/js/main.c06d08e4.js",
+    "static/js/787.a8fe51ff.chunk.js": "/PokemonGallery/static/js/787.a8fe51ff.chunk.js",
+    "index.html": "/PokemonGallery/index.html",
+    "main.d23f69d3.css.map": "/PokemonGallery/static/css/main.d23f69d3.css.map",
+    "main.c06d08e4.js.map": "/PokemonGallery/static/js/main.c06d08e4.js.map",
+    "787.a8fe51ff.chunk.js.map": "/PokemonGallery/static/js/787.a8fe51ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d23f69d3.css",
+    "static/js/main.c06d08e4.js"
+  ]
+}
